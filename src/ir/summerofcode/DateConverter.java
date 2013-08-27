@@ -1,6 +1,6 @@
 package ir.summerofcode;
 
-public class HijriCal {
+public class DateConverter {
     
     public static int[] HijriToGregorian(int year, int month, int date) {
         // calculation
